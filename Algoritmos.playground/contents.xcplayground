@@ -15,5 +15,6 @@
         <page name='Algoritmo 12'/>
         <page name='Algoritmo 13'/>
         <page name='Closure Reference Cycles'/>
+        <page name='How to draw a circle'/>
     </pages>
 </playground>
